@@ -1,2 +1,2 @@
 This is file 1 
-This is a text file for sample
+The content of file changed for class 
